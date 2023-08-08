@@ -1,0 +1,22 @@
+{
+  "name": "delta-to-string-converter",
+  "version": "1.0.0",
+  "description": "Delta to string converter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chidough14/delta-to-string-converter.git"
+  },
+  "keywords": [
+    "DSC"
+  ],
+  "author": "Chidough14",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chidough14/delta-to-string-converter/issues"
+  },
+  "homepage": "https://github.com/chidough14/delta-to-string-converter#readme"
+}
