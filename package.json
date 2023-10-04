@@ -1,6 +1,6 @@
 {
   "name": "delta-to-string-converter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Delta to string converter",
   "main": "index.js",
   "scripts": {
